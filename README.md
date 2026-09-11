@@ -71,9 +71,9 @@
 
 ## 更多内容
 
-- 🌐 [个人网站](https://portfolio-site-green-two.vercel.app/)
-- 🧩 [案例研究](https://portfolio-site-green-two.vercel.app/case-studies/)
-- 📝 [关于 AI 产品与构建的笔记](https://portfolio-site-green-two.vercel.app/notes/)
+- 🌐 [个人网站](https://lumi.oozoo.cc/)
+- 🧩 [案例研究](https://lumi.oozoo.cc/case-studies/)
+- 📝 [关于 AI 产品与构建的笔记](https://lumi.oozoo.cc/notes/)
 - 💬 [联系我 / 索取简历](https://github.com/qrx-joe/AI-role-chat/issues)
 
 ---
@@ -154,9 +154,9 @@ Rather than collecting more frameworks, I want to use projects to strengthen my 
 
 ## More
 
-- 🌐 [Portfolio](https://portfolio-site-green-two.vercel.app/)
-- 🧩 [Case studies](https://portfolio-site-green-two.vercel.app/case-studies/)
-- 📝 [Notes on AI products and building](https://portfolio-site-green-two.vercel.app/notes/)
+- 🌐 [Portfolio](https://lumi.oozoo.cc/)
+- 🧩 [Case studies](https://lumi.oozoo.cc/case-studies/)
+- 📝 [Notes on AI products and building](https://lumi.oozoo.cc/notes/)
 - 💬 [Contact / resume requests](https://github.com/qrx-joe/AI-role-chat/issues)
 
 </details>
